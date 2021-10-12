@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-![image](https://user-images.githubusercontent.com/13947592/136921310-fcf115a1-25ce-4485-904b-613985430a70.png)
+<div align="center"><img src="siopaola.png" width="400" height="400" alt="hot siopao for sale" /></div>
 
 You can use the [editor on GitHub](https://github.com/ptsimon/ptsimon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
